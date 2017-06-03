@@ -1,2 +1,2 @@
-Git is a distribute verson contral system.
-Git is a software.
+Git is a distribute verson control system.
+Git is a free software by GPL.
